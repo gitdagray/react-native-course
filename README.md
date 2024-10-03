@@ -31,12 +31,12 @@ npm install
 
 ### On Your Mobile Device
 
-[Expo Go for Android](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_US)
-[Expo Go for iOS](https://apps.apple.com/us/app/expo-go/id982107779)
+- 🔗 [Expo Go for Android](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_US)
+- 🔗 [Expo Go for iOS](https://apps.apple.com/us/app/expo-go/id982107779)
 
 ### Optional
-[Android Studio](https://developer.android.com/studio)
-[xCode (macOS Only)](https://developer.apple.com/xcode/)
+- 🔗 [Android Studio](https://developer.android.com/studio)
+- 🔗 [xCode (macOS Only)](https://developer.apple.com/xcode/)
 
 
 ### 📚 References
