@@ -55,6 +55,8 @@ npm install
 
 🚩 [Subscribe to my channel](https://bit.ly/3nGHmNn)
 
+💖 [Support My Content](https://patreon.com/davegray)
+
 ☕ [Buy Me A Coffee](https://buymeacoffee.com/DaveGray)
 
 🚀 Follow Me:
