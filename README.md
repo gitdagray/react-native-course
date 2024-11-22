@@ -42,6 +42,11 @@ npm install
 ### 📚 References
 - 🔗 [React Native Official Site](https://reactnative.dev/)
 - 🔗 [Expo Official Site](https://expo.dev/)
+- 🔗 [Expo Icons](https://icons.expo.fyi/)
+- 🔗 [Expo Google Fonts](https://github.com/expo/google-fonts)
+- 🔗 [React Native Directory](https://reactnative.directory/)
+- 🔗 [React Native Reanimated](https://docs.swmansion.com/react-native-reanimated/)
+- 🔗 [Async Storage](https://react-native-async-storage.github.io/async-storage/)
 
 ---
 
