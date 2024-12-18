@@ -8,6 +8,8 @@ In this series, you will learn how to build mobile apps with React Native and th
 
 This React Native for Beginners tutorial series is made possible by [Zero to Mastery](https://bit.ly/CompleteReactNative). After completing this course, ZTM's [Complete React Native Developer course](https://bit.ly/CompleteReactNative) is the next logical step in your learning journey.
 
+**Note:** ZTM has no affiliation with [freeCodeCamp](https://www.youtube.com/@freecodecamp). 
+
 ![React Native for Beginners](/readme-banner.PNG?raw=true)
 
 ## Lesson Help
